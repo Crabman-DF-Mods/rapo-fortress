@@ -17,6 +17,7 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
+- Gave ice dragons sounds (roaring, growls and a snapping bite).
 
 ### Changed
 
