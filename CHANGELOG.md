@@ -17,13 +17,20 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+### Removed
+
+### Fixed
+
+## [v1.0.1] - 2022-01-02
+### Added
 - Gave ice dragons sounds (roaring, growls and a snapping bite)
 
 ### Changed
 - Updated the readme file to reflect that the DF RAW LS is out of alpha now
 - Made raposa even smaller; 60% the volume of a human, and I updated their description accordingly
-
-### Removed
 
 ### Fixed
 - Typos in `README.md` regarding ice dragons
@@ -39,5 +46,6 @@ The initial release, for Christmas! It contains the following:
 - Banya crystals; semi-opaque and blue crystals that grow in clusters, they are quite valuable, and... Edible?
 
 <!--Links-->
-[Unreleased]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.1...HEAD
+[v1.0.1]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.0...v1.0.1
 [v1.0.0]: https://github.com/Crabman-DF-Mods/rapo-fortress/releases/tag/v1.0.0
