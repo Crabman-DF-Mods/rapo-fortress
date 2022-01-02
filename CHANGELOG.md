@@ -21,11 +21,13 @@ The meaning of each subcategory of change is as follows:
 
 ### Changed
 - Updated the readme file to reflect that the DF RAW LS is out of alpha now
+- Made raposa even smaller; 60% the volume of a human, and I updated their description accordingly
 
 ### Removed
 
 ### Fixed
 - Typos in `README.md` regarding ice dragons
+- Raposa's ASCII `CREATURE_TILE` was the wrong color (cyan), now it's brown
 
 ## [v1.0.0] - 2021-12-25
 The initial release, for Christmas! It contains the following:

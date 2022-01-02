@@ -3,11 +3,11 @@ creature_dtl_rapo
 [OBJECT:CREATURE]
 
 [CREATURE:RAPOSA]
-	[DESCRIPTION:A medium-sized humanoid with long, foxlike ears, and fur everywhere except its face.]
+	[DESCRIPTION:A small humanoid with long, foxlike ears, and fur everywhere except its face.]
 	[NAME:raposa:raposa:raposa]
 	[CASTE_NAME:raposa:raposa:raposa]
 	[OUTSIDER_CONTROLLABLE]
-	[CREATURE_TILE:'U'][COLOR:3:0:0]
+	[CREATURE_TILE:'U'][COLOR:6:0:0]
 	[CREATURE_SOLDIER_TILE:154]
 	[CREATURE_CLASS:MAMMAL]
 	[INTELLIGENT]
@@ -105,12 +105,12 @@ creature_dtl_rapo
 		[CDI:TARGET_RANGE:C:15]
 		[CDI:MAX_TARGET_NUMBER:C:1]
 		[CDI:WAIT_PERIOD:30]
-    # They're definitely small; they're the same height as Mike, who is a human child.
-    # I'm not sure of exactly HOW small they are though; we don't know how old Mike is
-    # or how tall he is canonically.
-	[BODY_SIZE:0:0:2800]
-	[BODY_SIZE:1:168:12250]
-	[BODY_SIZE:18:0:50000]
+    # They're the same height as Mike, who is a human child. I'm not sure of
+	# exactly HOW tall Mike is, but this seems close enough for now.
+	# These numbers are 60% of the human body sizes.
+	[BODY_SIZE:0:0:2400]
+	[BODY_SIZE:1:168:10500]
+	[BODY_SIZE:18:0:42000]
 	[BODY_APPEARANCE_MODIFIER:HEIGHT:75:95:98:100:102:105:125]
 		[APP_MOD_IMPORTANCE:500]
 	[BODY_APPEARANCE_MODIFIER:BROADNESS:75:95:98:100:102:105:125]
