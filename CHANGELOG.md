@@ -17,9 +17,10 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
-- Gave ice dragons sounds (roaring, growls and a snapping bite).
+- Gave ice dragons sounds (roaring, growls and a snapping bite)
 
 ### Changed
+- Updated the readme file to reflect that the DF RAW LS is out of alpha now
 
 ### Removed
 
