@@ -25,6 +25,7 @@ The meaning of each subcategory of change is as follows:
 ### Removed
 
 ### Fixed
+- Typos in `README.md` regarding ice dragons
 
 ## [v1.0.0] - 2021-12-25
 The initial release, for Christmas! It contains the following:

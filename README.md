@@ -22,7 +22,7 @@ __Raposa:__ civilized creatures that greatly resemble humans, but whose bodies a
 
 - __Mine Raposa:__ a playable raposa civilization type based off "Lavasteam" from the DS sequel. Like the village rapo civ, but based off dwarves instead of humans (and slightly more ethically dubious than village raposa). Very much into mining, wealth, and magma; they'd feel right at home with the dwarves on that front.
 
-- __Ice Dragons:__ it's Frostwind! Flying, limbless blue dragons that breathe out sharp icicles. They are semi-megabeasts associated with strength, mountains, and chaos.
+__Ice Dragons:__ it's Frostwind! Flying, limbless blue dragons that breathe out sharp icicles. They are semi-megabeasts associated with wind, weather, and chaos.
 
 __Banya:__ a crop similar to wheat, though right now it has no special connection to raposa civs, it's just another crop in the world.
 
