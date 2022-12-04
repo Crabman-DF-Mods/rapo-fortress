@@ -21,6 +21,7 @@ The meaning of each subcategory of change is as follows:
 ### Changed
 - Updated the mod's versioning conventions
 - Updated `README.md` link to point to my new DFFD user ID
+- Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of beta now
 
 ### Removed
 

@@ -4,7 +4,7 @@ _NOT AN OFFICIAL DRAWN TO LIFE PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH THQ, 
 
 This mod for [Dwarf Fortress][Dwarf_Fortress] adds unique creatures, civilizations, plants, and materials from [Drawn to Life][DTL], and its 2 sequels with the same name, "Drawn to Life: The Next Chapter", on the [DS][DS] and [Wii][Wii] (bearing in mind that the Wii version is not canon apparently), as well as [Drawn to Life: Two Realms][2R].
 
-This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in beta, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
+This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which I highly recommend to anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
 If you want to check out my other mods, follow one of these links:
 - DFFD downloads: https://dffd.bay12games.com/who.php?id=5705
