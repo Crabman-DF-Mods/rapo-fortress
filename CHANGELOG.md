@@ -17,6 +17,7 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
+- Added profession names for raposa, eg, "craftsrapo"
 
 ### Changed
 - Updated the mod's versioning conventions
