@@ -7,7 +7,7 @@ This mod for [Dwarf Fortress][Dwarf_Fortress] adds unique creatures, civilizatio
 This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which is currently in beta, but I still recommend it for anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
 If you want to check out my other mods, follow one of these links:
-- DFFD downloads: https://dffd.bay12games.com/who.php?id=9116
+- DFFD downloads: https://dffd.bay12games.com/who.php?id=5705
 - Github sources: https://github.com/Crabman-DF-Mods
 
 ## Installation

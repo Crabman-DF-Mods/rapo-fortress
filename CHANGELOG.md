@@ -19,6 +19,7 @@ The meaning of each subcategory of change is as follows:
 ### Added
 
 ### Changed
+- Updated `README.md` link to point to my new DFFD user ID
 
 ### Removed
 
