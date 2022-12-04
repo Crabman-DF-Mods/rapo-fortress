@@ -20,7 +20,7 @@ The meaning of each subcategory of change is as follows:
 
 ### Changed
 
-#### Removed
+### Removed
 
 ### Fixed
 
@@ -34,7 +34,7 @@ The meaning of each subcategory of change is as follows:
 - Updated `README.md` link to point to my new DFFD user ID
 - Edited one of the `README.md` starting paragraphs to reflect that the DF RAW LS is out of beta now
 
-#### Removed
+### Removed
 - Took out the "TODO" notes/comments, moved them into Github's issue tracker
 
 ### Fixed
