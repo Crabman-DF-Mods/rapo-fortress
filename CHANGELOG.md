@@ -26,6 +26,7 @@ The meaning of each subcategory of change is as follows:
 ### Removed
 
 ### Fixed
+- Raposa are no longer described anywhere as "dwarves", eg "militia-dwarf"
 
 ## [v1.0.1] - 2022-01-02
 ### Added
