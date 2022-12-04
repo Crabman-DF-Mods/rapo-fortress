@@ -2,7 +2,7 @@ plant_dtl
 
 [OBJECT:PLANT]
 
-# The primary crop of Raposa!
+// The primary crop of Raposa!
 [PLANT:BANYA]
 	[NAME:banya][NAME_PLURAL:banya][ADJ:banya]
 	[USE_MATERIAL_TEMPLATE:STRUCTURAL:STRUCTURAL_PLANT_TEMPLATE]

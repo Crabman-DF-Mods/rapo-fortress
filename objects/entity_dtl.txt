@@ -2,8 +2,8 @@ entity_dtl
 
 [OBJECT:ENTITY]
 
-# Watersong & Galactic Jungle will have to wait for later DF updates before I can
-# do them justice.
+// Watersong & Galactic Jungle will have to wait for later DF updates before I can
+// do them justice.
 
 [ENTITY:RAPO_PLAINS]
 	[ALL_MAIN_POPS_CONTROLLABLE]
@@ -110,7 +110,7 @@ entity_dtl
 	[CURRENCY:COPPER:1]
 	[CURRENCY:SILVER:5]
 	[CURRENCY:GOLD:15]
-    # TODO tune symbols
+    // TODO tune symbols
 	[SELECT_SYMBOL:WAR:NAME_WAR]
 	    [SUBSELECT_SYMBOL:WAR:VIOLENT]
 	[SELECT_SYMBOL:BATTLE:NAME_BATTLE]
@@ -312,7 +312,7 @@ entity_dtl
 	[WORLD_CONSTRUCTION:BRIDGE]
 	[WORLD_CONSTRUCTION:ROAD]
 
-    # As always with these mods, most of the ethics are sort of speculative
+    // As always with these mods, most of the ethics are sort of speculative
 	[ETHIC:KILL_ENTITY_MEMBER:JUSTIFIED_IF_SELF_DEFENSE]
 	[ETHIC:KILL_NEUTRAL:JUSTIFIED_IF_EXTREME_REASON]
 	[ETHIC:KILL_ENEMY:PERSONAL_MATTER]
@@ -322,12 +322,12 @@ entity_dtl
 	[ETHIC:TORTURE_FOR_INFORMATION:SHUN]
 	[ETHIC:TORTURE_FOR_FUN:UNTHINKABLE]
 	[ETHIC:TORTURE_ANIMALS:APPALLING]
-	[ETHIC:TREASON:PUNISH_SERIOUS] # Wilfre wasn't exiled, he self-exiled
+	[ETHIC:TREASON:PUNISH_SERIOUS] // Wilfre wasn't exiled, he self-exiled
 	[ETHIC:OATH_BREAKING:PUNISH_SERIOUS]
 	[ETHIC:LYING:PERSONAL_MATTER]
 	[ETHIC:VANDALISM:PUNISH_SERIOUS]
 	[ETHIC:TRESPASSING:PUNISH_REPRIMAND]
-	[ETHIC:THEFT:PUNISH_SERIOUS] # Hard to tell; Zsasha is forgiven easily, but they do have a prison...
+	[ETHIC:THEFT:PUNISH_SERIOUS] // Hard to tell; Zsasha is forgiven easily, but they do have a prison...
 	[ETHIC:ASSAULT:PUNISH_SERIOUS]
 	[ETHIC:SLAVERY:UNTHINKABLE]
 	[ETHIC:EAT_SAPIENT_OTHER:UNTHINKABLE]
@@ -346,7 +346,7 @@ entity_dtl
 	[VALUE:FAIRNESS:15]
 	[VALUE:DECORUM:0]
 	[VALUE:TRADITION:30]
-	[VALUE:ARTWORK:50] # of course!
+	[VALUE:ARTWORK:50] // of course!
 	[VALUE:COOPERATION:30]
 	[VALUE:INDEPENDENCE:-10]
 	[VALUE:STOICISM:-5]
@@ -369,7 +369,7 @@ entity_dtl
 	[VALUE:NATURE:20]
 	[VALUE:PEACE:15]
 	[WILL_ACCEPT_TRIBUTE]
-    # TODO fine tune the positions more
+    // TODO fine tune the positions more
     [LAND_HOLDER_TRIGGER:1:20:10000:100000]
 	[LAND_HOLDER_TRIGGER:2:20:20000:200000]
 	[LAND_HOLDER_TRIGGER:3:20:30000:300000]
@@ -852,9 +852,9 @@ entity_dtl
 	[BUILDS_OUTDOOR_FORTIFICATIONS]
 	[BUILDS_OUTDOOR_TOMBS]
 	[BANDITRY:5]
-    # Tissue Styling
-    # Note, wiki has no conclusive info about how exactly TS_MAINTAIN_LENGTH works,
-    # so I'm assuming that it's min/max length, and speculatings about the numbers.
+    // Tissue Styling
+    // Note, wiki has no conclusive info about how exactly TS_MAINTAIN_LENGTH works,
+    // so I'm assuming that it's min/max length, and speculatings about the numbers.
     [TISSUE_STYLE:HAIR]
         [TS_MAINTAIN_LENGTH:5:100]
 		[TS_PREFERRED_SHAPING:STANDARD_HAIR_SHAPINGS]
@@ -963,7 +963,7 @@ entity_dtl
 	[CURRENCY:COPPER:1]
 	[CURRENCY:SILVER:5]
 	[CURRENCY:GOLD:15]
-    # TODO tune symbols
+    // TODO tune symbols
 	[SELECT_SYMBOL:WAR:NAME_WAR]
 	    [SUBSELECT_SYMBOL:WAR:VIOLENT]
 	[SELECT_SYMBOL:BATTLE:NAME_BATTLE]
@@ -1196,7 +1196,7 @@ entity_dtl
 	[WORLD_CONSTRUCTION:BRIDGE]
 	[WORLD_CONSTRUCTION:ROAD]
 
-    # As always with these mods, most of the ethics are sort of speculative
+    // As always with these mods, most of the ethics are sort of speculative
 	[ETHIC:KILL_ENTITY_MEMBER:JUSTIFIED_IF_SELF_DEFENSE]
 	[ETHIC:KILL_NEUTRAL:JUSTIFIED_IF_EXTREME_REASON]
 	[ETHIC:KILL_ENEMY:PERSONAL_MATTER]
@@ -1206,14 +1206,14 @@ entity_dtl
 	[ETHIC:TORTURE_FOR_INFORMATION:SHUN]
 	[ETHIC:TORTURE_FOR_FUN:UNTHINKABLE]
 	[ETHIC:TORTURE_ANIMALS:APPALLING]
-	[ETHIC:TREASON:PUNISH_SERIOUS] # Wilfre wasn't exiled, he self-exiled
+	[ETHIC:TREASON:PUNISH_SERIOUS] // Wilfre wasn't exiled, he self-exiled
 	[ETHIC:OATH_BREAKING:PUNISH_SERIOUS]
 	[ETHIC:LYING:PERSONAL_MATTER]
 	[ETHIC:VANDALISM:PUNISH_SERIOUS]
 	[ETHIC:TRESPASSING:PUNISH_REPRIMAND]
-	[ETHIC:THEFT:PUNISH_SERIOUS] # Hard to tell; Zsasha is forgiven easily, but they do have a prison...
+	[ETHIC:THEFT:PUNISH_SERIOUS] // Hard to tell; Zsasha is forgiven easily, but they do have a prison...
 	[ETHIC:ASSAULT:PUNISH_SERIOUS]
-	[ETHIC:SLAVERY:ONLY_IF_SANCTIONED] # oof, not a great look King Miney!
+	[ETHIC:SLAVERY:ONLY_IF_SANCTIONED] // oof, not a great look King Miney!
 	[ETHIC:EAT_SAPIENT_OTHER:UNTHINKABLE]
 	[ETHIC:EAT_SAPIENT_KILL:UNTHINKABLE]
 	[ETHIC:MAKE_TROPHY_SAME_RACE:ACCEPTABLE]
@@ -1253,7 +1253,7 @@ entity_dtl
 	[VALUE:NATURE:-5]
 	[VALUE:PEACE:15]
 	[WILL_ACCEPT_TRIBUTE]
-    # TODO fine tune the positions more
+    // TODO fine tune the positions more
     [LAND_HOLDER_TRIGGER:1:20:10000:100000]
 	[LAND_HOLDER_TRIGGER:2:20:20000:200000]
 	[LAND_HOLDER_TRIGGER:3:20:30000:300000]
@@ -1736,9 +1736,9 @@ entity_dtl
 	[BUILDS_OUTDOOR_FORTIFICATIONS]
 	[BUILDS_OUTDOOR_TOMBS]
 	[BANDITRY:5]
-    # Tissue Styling
-    # Note, wiki has no conclusive info about how exactly TS_MAINTAIN_LENGTH works,
-    # so I'm assuming that it's min/max length, and speculatings about the numbers.
+    // Tissue Styling
+    // Note, wiki has no conclusive info about how exactly TS_MAINTAIN_LENGTH works,
+    // so I'm assuming that it's min/max length, and speculatings about the numbers.
     [TISSUE_STYLE:HAIR]
         [TS_MAINTAIN_LENGTH:5:100]
 		[TS_PREFERRED_SHAPING:STANDARD_HAIR_SHAPINGS]

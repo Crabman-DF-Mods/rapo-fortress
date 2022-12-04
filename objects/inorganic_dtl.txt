@@ -5,7 +5,7 @@ inorganic_dtl
 [INORGANIC:BANYA]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [MATERIAL_VALUE:20][DISPLAY_COLOR:0:3:0][TILE:15][IS_GEM:banya crystal:STP:OVERWRITE_SOLID]
-# I'm no geologist, I'm just hoping this is how to specify volcanic stones
+// I'm no geologist, I'm just hoping this is how to specify volcanic stones
 [ENVIRONMENT:IGNEOUS_ALL:CLUSTER_SMALL:100]
 [SOLID_DENSITY:2650]  Common to quartz gems
 [STATE_COLOR:ALL_SOLID:AQUA]
