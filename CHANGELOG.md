@@ -18,6 +18,7 @@ The meaning of each subcategory of change is as follows:
 
 ### Added
 - Added the "messenger" position to both rapo civs
+- Underwear for the miner rapo civilization
 
 ### Changed
 
