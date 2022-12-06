@@ -22,6 +22,7 @@ The meaning of each subcategory of change is as follows:
 
 ### Removed
 - Removed the `b_detail_plan_dtl.txt` file
+- For DF `50.01`, removed the entity tokens `UNDEAD_CANDIDATE`, `PERMITTED_JOB:ARCHITECT`, and `LAND_HOLDER_TRIGGER`
 
 ### Fixed
 
