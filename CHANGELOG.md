@@ -21,6 +21,7 @@ The meaning of each subcategory of change is as follows:
 ### Changed
 
 ### Removed
+- Removed the `b_detail_plan_dtl.txt` file
 
 ### Fixed
 
