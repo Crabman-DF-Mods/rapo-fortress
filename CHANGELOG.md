@@ -17,6 +17,7 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
+- Added the "messenger" position to both rapo civs
 
 ### Changed
 
