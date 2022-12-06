@@ -21,6 +21,7 @@ The meaning of each subcategory of change is as follows:
 - Underwear for the miner rapo civilization
 - Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for both rapo civs
 - Descriptions for some positions of both rapo civs
+- Gave rapo monarchs their gender neutral name (I don't know what this does, but dwarves have this change too in vanilla `50.01`)
 
 ### Changed
 
