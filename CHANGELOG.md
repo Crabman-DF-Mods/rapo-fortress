@@ -24,6 +24,7 @@ The meaning of each subcategory of change is as follows:
 - Gave rapo monarchs their gender neutral name (I don't know what this does, but dwarves have this change too in vanilla `50.01`)
 
 ### Changed
+- Updated `ATTACK_TRIGGER` format for `50.01`
 
 ### Removed
 - Removed the `b_detail_plan_dtl.txt` file
