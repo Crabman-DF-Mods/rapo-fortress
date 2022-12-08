@@ -26,6 +26,7 @@ The meaning of each subcategory of change is as follows:
 ### Changed
 - Updated `ATTACK_TRIGGER` format for `50.01`
 - Updated ages for raposa so they become adults at 18 (to match vanilla `50.01`)
+- Updated the code to recognize that cheek whiskers are now actually on the cheeks in `50.01`
 
 ### Removed
 - Removed the `b_detail_plan_dtl.txt` file
