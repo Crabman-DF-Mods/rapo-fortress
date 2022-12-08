@@ -1,4 +1,4 @@
-plant_dtl
+plant_misc
 
 [OBJECT:PLANT]
 

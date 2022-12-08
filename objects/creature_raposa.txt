@@ -1,4 +1,4 @@
-creature_dtl_rapo
+creature_raposa
 
 [OBJECT:CREATURE]
 

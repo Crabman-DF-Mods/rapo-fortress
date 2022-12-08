@@ -1,4 +1,4 @@
-creature_dtl_misc
+creature_misc
 
 [OBJECT:CREATURE]
 
