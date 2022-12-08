@@ -28,6 +28,7 @@ The meaning of each subcategory of change is as follows:
 - Updated ages for raposa so they become adults at 18 (to match vanilla `50.01`)
 - Updated the code to recognize that cheek whiskers are now actually on the cheeks in `50.01`
 - Renamed a bunch of files and file headers
+- Updated the object IDs for both raposa civs and the ice dragons
 
 ### Removed
 - Removed the `b_detail_plan_dtl.txt` file

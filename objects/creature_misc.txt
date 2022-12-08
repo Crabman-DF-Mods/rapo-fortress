@@ -2,7 +2,7 @@ creature_misc
 
 [OBJECT:CREATURE]
 
-[CREATURE:DTL_ICE_DRAGON]
+[CREATURE:ICE_DRAGON]
     [DESCRIPTION:A huge, flying serpent.  It is magical and can breathe shards of ice.  These monsters can live for thousands of years.]
 	[NAME:ice dragon:ice dragons:ice dragon]
 	[CASTE_NAME:ice dragon:ice dragons:ice dragon]
