@@ -16,6 +16,16 @@ The meaning of each subcategory of change is as follows:
 
 ## [Unreleased]
 
+## Added
+
+## Changed
+
+## Removed
+
+## Fixed
+
+## [v2.0.0] - 2022-12-09
+
 ### Added
 - Graphics! Absolutely terrible ones that are just ugly edits of vanilla stuff, but graphics nontheless!
 - Updated the readme file with a bunch of new info; more links, including a link to the new dependency mod, "Creature Scrapbook"
@@ -78,7 +88,8 @@ The initial release, for Christmas! It contains the following:
 - Banya crystals; semi-opaque and blue crystals that grow in clusters, they are quite valuable, and... Edible?
 
 <!--Links-->
-[Unreleased]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v2.0.0...HEAD
+[v2.0.0]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.2...v2.0.0
 [v1.0.2]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.1...v1.0.2
 [v1.0.1]: https://github.com/Crabman-DF-Mods/rapo-fortress/compare/v1.0.0...v1.0.1
 [v1.0.0]: https://github.com/Crabman-DF-Mods/rapo-fortress/releases/tag/v1.0.0
