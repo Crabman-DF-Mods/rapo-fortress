@@ -1,0 +1,7 @@
+graphics_plant_crops
+
+[OBJECT:GRAPHICS]
+
+// Just uses the vanilla wheat graphic, for now.
+[PLANT_GRAPHICS:BANYA]
+	[SHRUB:PLANT_CROPS:0:0]

@@ -17,6 +17,7 @@ The meaning of each subcategory of change is as follows:
 ## [Unreleased]
 
 ### Added
+- Graphics! Absolutely terrible ones that are just ugly edits of vanilla stuff, but graphics nontheless!
 - Added the "messenger" position to both rapo civs
 - Underwear for the miner rapo civilization
 - Added vanilla `50.01`'s `NAME_BUILDING_HOSPITAL` symbol for both rapo civs
