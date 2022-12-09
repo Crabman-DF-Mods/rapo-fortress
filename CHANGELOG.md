@@ -35,6 +35,7 @@ The meaning of each subcategory of change is as follows:
 - For DF `50.01`, removed the entity tokens `UNDEAD_CANDIDATE`, `PERMITTED_JOB:ARCHITECT`, and `LAND_HOLDER_TRIGGER`
 
 ### Fixed
+- Banya crops can now grow in the tundra and in temperate grasslands (like we see in the game, they can grow in cold places it seems)
 
 ## [v1.0.2] - 2022-12-04
 
