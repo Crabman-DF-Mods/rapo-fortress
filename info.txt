@@ -1,0 +1,24 @@
+[ID:rapo_fortress]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:v2.0.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:v2.0.0]
+
+[REQUIRES_ID_BEFORE_ME:creature_scrapbook]
+
+[AUTHOR:Mr Crabman]
+[NAME:Rapo Fortress]
+[DESCRIPTION:Creatures, civilizations, plants, and materials from "Drawn to Life" and its sequels.]
+
+[STEAM_TITLE:Rapo Fortress]
+
+[STEAM_TAG:mod]
+[STEAM_TAG:minor mod]
+[STEAM_TAG:creature]
+[STEAM_TAG:creatures]
+[STEAM_TAG:race]
+[STEAM_TAG:civilization]
+[STEAM_TAG:materials]
+[STEAM_TAG:plant]
+
+[STEAM_FILE_ID:2899543371]
