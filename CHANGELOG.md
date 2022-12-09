@@ -18,6 +18,7 @@ The meaning of each subcategory of change is as follows:
 
 ### Added
 - Graphics! Absolutely terrible ones that are just ugly edits of vanilla stuff, but graphics nontheless!
+- Updated the readme file with a bunch of new info; more links, including a link to the new dependency mod, "Creature Scrapbook"
 - The `info.txt` file needed for it to be recognised as an actual mod by DF
 - Added the "messenger" position to both rapo civs
 - Underwear for the miner rapo civilization

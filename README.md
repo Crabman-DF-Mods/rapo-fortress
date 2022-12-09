@@ -4,15 +4,21 @@ _NOT AN OFFICIAL DRAWN TO LIFE PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH THQ, 
 
 This mod for [Dwarf Fortress][Dwarf_Fortress] adds unique creatures, civilizations, plants, and materials from [Drawn to Life][DTL], and its 2 sequels with the same name, "Drawn to Life: The Next Chapter", on the [DS][DS] and [Wii][Wii] (bearing in mind that the Wii version is not canon apparently), as well as [Drawn to Life: Two Realms][2R].
 
+You can download this mod from:
+- Steam Workshop (includes graphics!): https://steamcommunity.com/sharedfiles/filedetails/?id=2899543371
+- DFFD download: https://dffd.bay12games.com/file.php?id=16153
+
 This mod was created with the help of the [Dwarf Fortress RAW language server extension][LS], which I highly recommend to anyone wanting to make Dwarf Fortress mods, either for the first time or as a veteran.
 
 If you want to check out my other mods, follow one of these links:
+- Steam Workshop: https://steamcommunity.com/id/Mr_Crabman/myworkshopfiles/?appid=975370
 - DFFD downloads: https://dffd.bay12games.com/who.php?id=5705
 - Github sources: https://github.com/Crabman-DF-Mods
 
-## Installation
+## Dependencies
 
-Copy-paste all files this mod's `/objects` folder into the `/raw/objects/` folder from Dwarf Fortress.
+This mod requires these other mods to be installed:
+- Creature Scrapbook ([DFFD](https://dffd.bay12games.com/file.php?id=16201), [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2899540654), [Source Code](https://github.com/Crabman-DF-Mods/creature-scrapbook)).
 
 ## Content
 
